@@ -2,7 +2,7 @@
 
 End-to-end analysis of 4.6 million Foodpanda customer reviews across 11 APAC markets, surfacing market-level experience patterns and specific service-quality gaps through quantitative and keyword-based analysis.
 
-**[→ View the interactive dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)**
+**[→ View the interactive dashboard on Tableau Public](https://public.tableau.com/views/FoodpandaAPACCustomerFeedbackAnalysis2024-2026/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -18,7 +18,7 @@ End-to-end analysis of 4.6 million Foodpanda customer reviews across 11 APAC mar
 
 **Taiwan is the APAC top performer (3.85 average) and is being divested to Grab in H2 2026.** There is a window to document what works there before the transition.
 
-Full set of findings and recommendations on the [Recommendations dashboard](YOUR_TABLEAU_PUBLIC_LINK_HERE#Recommendations).
+Full set of findings and recommendations on the [Recommendations dashboard](https://public.tableau.com/shared/D4W6GY8CS?:display_count=n&:origin=viz_share_link).
 
 ---
 
@@ -68,6 +68,4 @@ Full set of findings and recommendations on the [Recommendations dashboard](YOUR
 
 Built by **Junior bin Khalit** — data analyst based in Singapore, transitioning from operations into analytics.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](YOUR_GITHUB_URL) · [Tableau Public](YOUR_TABLEAU_URL)
-
-Previous portfolio projects: Olist E-commerce Delivery Performance · Cyclistic Bike-Share Analysis
+[LinkedIn](https://linkedin.com/in/junior-k-473700155) · [GitHub](https://github.com/JuniorK96) · [Tableau Public](https://public.tableau.com/app/profile/junior.khalit)
