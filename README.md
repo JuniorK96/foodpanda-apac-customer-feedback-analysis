@@ -38,12 +38,20 @@ Full set of findings and recommendations on the [Recommendations dashboard](http
 ---
 
 ## Tools
-
+ 
 - **Python** — pandas, langdetect, jieba, regex
-- **APIs** — OneMap (Singapore Land Authority) for geocoding
 - **Visualisation** — Tableau Public
-- **Data source** — [Foodpanda APAC reviews dataset by bwandowando on Kaggle](https://www.kaggle.com/datasets/bwandowando)
-
+- **Data source** — Foodpanda APAC restaurant and review datasets by [bwandowando on Kaggle](https://www.kaggle.com/bwandowando), covering 11 markets with 2025 and 2026 versioned snapshots. Individual datasets used:
+  - [Malaysia](https://www.kaggle.com/datasets/bwandowando/malaysian-cities-food-panda-resto-reviews)
+  - [Singapore](https://www.kaggle.com/datasets/bwandowando/food-panda-resto-reviews)
+  - [Philippines](https://www.kaggle.com/datasets/bwandowando/food-panda-restaurant-reviews)
+  - [Taiwan](https://www.kaggle.com/datasets/bwandowando/taiwan-food-panda-resto-reviews) *(if available — verify slug)*
+  - [Hong Kong](https://www.kaggle.com/datasets/bwandowando/hongkong-food-panda-restaurant-reviews)
+  - [Bangladesh](https://www.kaggle.com/datasets/bwandowando/bangladesh-cities-food-panda-resto-reviews)
+  - [Pakistan](https://www.kaggle.com/datasets/bwandowando/pakistan-cities-food-panda-resto-reviews)
+  - [Thailand](https://www.kaggle.com/datasets/bwandowando/thailand-cities-food-panda-resto-reviews)
+  - Cambodia, Laos, Myanmar — via bwandowando Kaggle profile
+    
 ---
 
 ## Acknowledged limitations
