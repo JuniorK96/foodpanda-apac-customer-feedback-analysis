@@ -45,12 +45,14 @@ Full set of findings and recommendations on the [Recommendations dashboard](http
   - [Malaysia](https://www.kaggle.com/datasets/bwandowando/malaysian-cities-food-panda-resto-reviews)
   - [Singapore](https://www.kaggle.com/datasets/bwandowando/food-panda-resto-reviews)
   - [Philippines](https://www.kaggle.com/datasets/bwandowando/food-panda-restaurant-reviews)
-  - [Taiwan](https://www.kaggle.com/datasets/bwandowando/taiwan-food-panda-resto-reviews) *(if available — verify slug)*
+  - [Taiwan](https://www.kaggle.com/datasets/bwandowando/taiwan-food-panda-restaurant-reviews)
   - [Hong Kong](https://www.kaggle.com/datasets/bwandowando/hongkong-food-panda-restaurant-reviews)
   - [Bangladesh](https://www.kaggle.com/datasets/bwandowando/bangladesh-cities-food-panda-resto-reviews)
   - [Pakistan](https://www.kaggle.com/datasets/bwandowando/pakistan-cities-food-panda-resto-reviews)
   - [Thailand](https://www.kaggle.com/datasets/bwandowando/thailand-cities-food-panda-resto-reviews)
-  - Cambodia, Laos, Myanmar — via bwandowando Kaggle profile
+  - [Cambodia](https://www.kaggle.com/datasets/bwandowando/cambodian-food-panda-resto-reviews)
+  - [Laos](https://www.kaggle.com/datasets/bwandowando/laos-food-panda-restaurant-reviews)
+  - [Myanmar](https://www.kaggle.com/datasets/bwandowando/myanmar-food-panda-restaurant-reviews)
     
 ---
 
